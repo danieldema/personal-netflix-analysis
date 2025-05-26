@@ -108,16 +108,6 @@ Raw Netflix Data → Data Cleaning → Exploratory Analysis → Feature Engineer
 └── README.md                       # Project documentation
 ```
 
-## Technical Skills Demonstrated
-
-- **Data Science Workflow**: End-to-end analysis project execution
-- **Python Programming**: Advanced pandas operations and data manipulation
-- **Machine Learning**: Classification model development and evaluation
-- **Statistical Analysis**: Comprehensive exploratory data analysis
-- **Data Visualization**: Professional chart creation with multiple libraries
-- **Model Evaluation**: Performance metrics interpretation and validation
-- **Real Data Handling**: Personal data analysis with privacy considerations
-
 ---
 
 **Contact**: [https://www.linkedin.com/in/danieldema/] | [danieldema42@gmail.com]
