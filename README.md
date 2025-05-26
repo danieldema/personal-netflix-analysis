@@ -99,24 +99,6 @@ Raw Netflix Data → Data Cleaning → Exploratory Analysis → Feature Engineer
 - Content consumption volume varies significantly between profiles
 - Temporal viewing habits show consistent individual patterns
 
-## Technical Implementation
-
-### Data Processing Pipeline
-- **Data Import**: CSV parsing and initial data structure analysis
-- **Data Cleaning**: Missing value handling and data type optimization
-
-### Visualization Strategy
-- **Comparative Analysis**: Multi-profile viewing count comparisons
-- **Device Usage Charts**: Platform preference visualization
-- **Content Analysis**: Most-watched titles and viewing frequency
-- **Statistical Plots**: Distribution analysis and pattern identification
-
-### Machine Learning Workflow
-- **Feature Selection**: Optimal predictor identification
-- **Model Training**: Logistic regression implementation
-- **Performance Evaluation**: AUC, precision
-- **Visualization**: ROC curves and confusion matrix heatmaps
-
 ## Project Structure
 
 ```
