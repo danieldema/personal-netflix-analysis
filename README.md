@@ -6,12 +6,6 @@ A comprehensive data science project analyzing personal Netflix viewing patterns
 
 This project leverages actual Netflix viewing data to perform an in-depth analysis of personal streaming habits across multiple user profiles. Through statistical analysis and machine learning, the project identifies distinct viewing patterns, device preferences, and content consumption behaviors, culminating in a predictive model that can accurately classify users based on their viewing characteristics.
 
-### Key Achievements
-- **Personal Data Analysis** - Real Netflix account data providing authentic insights
-- **Profile Classification Model** - 81% AUC score for user prediction accuracy
-- **Comprehensive EDA** - Multi-dimensional analysis of viewing patterns
-- **Advanced Visualizations** - Professional data storytelling with statistical plots
-
 ## Architecture
 
 ```
