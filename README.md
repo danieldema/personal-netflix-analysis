@@ -74,19 +74,6 @@ Raw Netflix Data → Data Cleaning → Exploratory Analysis → Feature Engineer
 - **Performance**: AUC score of 0.81 (strong predictive capability)
 - **Model Validation**: Comprehensive evaluation metrics
 
-**Feature Engineering:**
-- **Viewing Time Features**: Duration-based user characteristics
-- **Device Encoding**: Categorical device type transformation
-- **Behavioral Metrics**: Derived features from viewing patterns
-
-## Model Performance & Results
-
-### Classification Results
-- **AUC Score**: 0.81 (Excellent discriminative ability)
-- **Model Type**: Logistic Regression
-- **Feature Importance**: Viewing time and device preferences as key predictors
-- **Validation**: ROC curve analysis and confusion matrix evaluation
-
 ### Key Insights from Analysis
 
 **Profile Differentiation:**
