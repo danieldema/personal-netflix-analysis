@@ -138,13 +138,6 @@ Raw Netflix Data → Data Cleaning → Exploratory Analysis → Feature Engineer
 - **Model Evaluation**: Performance metrics interpretation and validation
 - **Real Data Handling**: Personal data analysis with privacy considerations
 
-## Privacy & Ethics Considerations
-
-- **Personal Data Usage**: Responsible handling of individual viewing data
-- **Data Anonymization**: Profile identification without personal information exposure
-- **Analytical Purpose**: Educational and portfolio development focus
-- **Data Security**: Appropriate data handling and storage practices
-
 ---
 
 **Contact**: [https://www.linkedin.com/in/danieldema/] | [danieldema42@gmail.com]
