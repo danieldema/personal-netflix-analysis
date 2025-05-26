@@ -108,26 +108,6 @@ Raw Netflix Data → Data Cleaning → Exploratory Analysis → Feature Engineer
 └── README.md                       # Project documentation
 ```
 
-## Key Findings & Insights
-
-### User Behavior Analysis
-- **Profile Uniqueness**: Each user demonstrates distinct viewing signatures
-- **Device Loyalty**: Strong preferences for specific viewing platforms
-- **Content Patterns**: Individual preferences clearly reflected in data
-- **Predictive Accuracy**: 81% success rate in profile identification
-
-### Statistical Discoveries
-- **Viewing Volume Variation**: Significant differences in consumption levels
-- **Platform Preferences**: Clear device-profile associations
-- **Temporal Consistency**: Stable viewing patterns over time
-- **Content Diversity**: Varying levels of content exploration by user
-
-### Technical Achievements
-- **Real Data Application**: Authentic dataset providing genuine insights
-- **Model Performance**: Strong predictive capability with practical applications
-- **Visualization Quality**: Professional-grade data presentation
-- **Reproducible Analysis**: Well-documented analytical workflow
-
 ## Technical Skills Demonstrated
 
 - **Data Science Workflow**: End-to-end analysis project execution
