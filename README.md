@@ -1,6 +1,6 @@
 # Personal Netflix Viewing Data Analysis
 
-A comprehensive data science project analyzing personal Netflix viewing patterns using real account data, featuring exploratory data analysis, predictive modeling, and advanced visualization techniques to uncover viewing behaviors and preferences.
+An analytical deep dive into personal Netflix viewing habits using authentic account data, including exploratory data analysis, predictive modeling, and sophisticated visual storytelling to reveal viewing trends and preferences.
 
 ## Project Overview
 
